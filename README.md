@@ -21,3 +21,4 @@
 - So you may choose a problem that you had to solve during your courses with pencil and paper or with Python or anyhow else and implement its solution in Mathematica. It would be nice if you additionally compare the time you spent on these two approaches and the performance of you Python/Mathematica implementations and provide  both solutions in separate subfolders of your folder
 #### Contacts
 - If you'd like to contact Project 32's organizers, you can write to n.shilov@innopolis.ru or create a corresponding issue in the repo with the name of your project as its title
+- You can also join the project's group @project_group in Telegram 
