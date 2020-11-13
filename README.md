@@ -3,7 +3,7 @@
 ## Description:
 - This project's purpose is to estimate the number of people who would like to use Mathematica during their studies at the Innopolis University.
 - You can participate iff you are an Innopolis student. Moreover, if you are taking the DE course now, you can earn up to 4 points for an accepted project!
-- As the outcome, we expect to create a community of students who know how to apply Mathematica and a set of solutions, from which one can study capabilities of this CAS.
+- As the outcome, we expect to create a community of students who know how to apply Mathematica and a set of solutions, from which one can study capabilities of this Computer Algebra System.
 ## Suggested projects
 1. ...
 1. ...
@@ -23,5 +23,5 @@
 - We would prefer a live-review. We hope it will not take more than 15 minutes per a person.
 - We will add to this project's repository all accepted works by the end of the project.
 #### Contacts
-- You may join the project's group [@project32_group](https://t.me/project32_group) in Telegram. "We encourage vigorous discussion and cooperation" ©
+- You may join the project's group [@project32_group](https://t.me/joinchat/AeDpKxUqbKpZi_rhyc9Yow) in Telegram. "We encourage vigorous discussion and cooperation" ©
 - Additionally, you may contact either repo owner: [Danila](https://t.me/daniladanko) or [Zakhar](https://t.me/ZYagudin)
