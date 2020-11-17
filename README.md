@@ -4,7 +4,7 @@
 - This project's purpose is to estimate the number of people who would like to use Mathematica during their studies at the Innopolis University.
 - You can participate iff you are an Innopolis student. 
 - Moreover, if you are taking the DE and Physics courses now, you may earn up to **6** points for an accepted project for each course!
-- E.g., if you get 5 points for this project, your total Physics grade will increase by 5 points as well as your DE grade! Bijection.
+- E.g., if you get 5 points for this project, your total Physics grade will increase by 5 points as well as your DE grade! Bijection. (To be decided later)
 - As an outcome, we expect to *(a)* create a community of students who know how to apply Mathematica and *(b)* obtain a set of solutions, from which one can study capabilities of this Computer Algebra System.
 ## Suggested projects
 * [Олимпиада школьников Ломоносов–2020 по механике и математическому моделированию (Вариант 201)](http://rsr-olymp.ru/upload/files/tasks/356/2019/14211252-tasks-mech-10-11-final-19-0.pdf)
