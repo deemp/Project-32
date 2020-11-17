@@ -7,7 +7,7 @@
 - E.g., if you get 5 points for this project, your total Physics grade will increase by 5 points as well as your DE grade! Bijection.
 - As an outcome, we expect to *(a)* create a community of students who know how to apply Mathematica and *(b)* obtain a set of solutions, from which one can study capabilities of this Computer Algebra System.
 ## Suggested projects
-* [Олимпиада школьников Ломоносов–2020по механике и математическому моделированию (Вариант 201)](http://rsr-olymp.ru/upload/files/tasks/356/2019/14211252-tasks-mech-10-11-final-19-0.pdf)
+* [Олимпиада школьников Ломоносов–2020 по механике и математическому моделированию (Вариант 201)](http://rsr-olymp.ru/upload/files/tasks/356/2019/14211252-tasks-mech-10-11-final-19-0.pdf)
   1. Поезд
   1. Телебашня
   1. Белый медведь
