@@ -26,14 +26,15 @@
 #### Choosing a problem
 - As you can see, the project lasts only for two weeks. Hence, you probably won't be able to implement something extremely difficult, and some parts of Mathematica may not work at a certain stage.
 - Though you are allowed to eventually submit one project only, you can change your project at any moment if there is another available project (its name in the **Suggested projects** will contain no links). 
-- Anyway, if you want to choose some project, contact any repo owner in Telegram! Write your current project's name (if you have already booked any) and which one do you want to choose. Don't forget to send the link to your project's repository! We will change links so that your new project in **Suggested projects** looks "booked" and points to your repository.
+- Anyway, if you want to choose some project, contact any repo owner in Telegram! Write your current project's name (if you have already booked any) and which one do you want to choose. Do not forget to send the link to your project's repository! We will change links so that your new project in **Suggested projects** looks "booked" and points to your repository.
 #### Goals
 - **Simple**: calculate the answer, if possible, and show the solution flow in Wolfram language. This can give you 2 points max.
 - **Advanced**: model the solution, visualize, and make it interactive! Earn 4 points more for a cool work.
 #### Implementation
 - You may use [Mathematica's Free Trial version](https://www.wolfram.com/mathematica/trial/) for the duration of the project.
 - The main notebook should contain the name of your project, your name and surname, your goal. Please be as clear as possible!
-- **Comment code! Comment code!! Comment code!!!** Later, people may want to learn from your masterpieces! 
+- Your code must be written in Mathematica exclusively.
+- **Comment code! Comment code!! Comment code!!!** Later, people may want to learn from your masterpieces!
 - A couple of projects made by us will be uploaded by the start of the project. Take a look at them.
 - Note that if we do not explicitly state something, you choose what to do on your own.
 #### Review
