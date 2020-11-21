@@ -7,7 +7,7 @@
 - As an outcome, we expect to *(a)* create a community of students who know how to apply Mathematica and *(b)* obtain a set of beautiful models, from which one can study capabilities of this Computer Algebra System.
 ## Suggested projects
 * [Олимпиада школьников Ломоносов–2020 по механике и математическому моделированию (Вариант 201)](http://rsr-olymp.ru/upload/files/tasks/356/2019/14211252-tasks-mech-10-11-final-19-0.pdf)
-  1. Поезд
+  1. [Поезд](https://github.com/Glemhel/Project-32-Task)
   1. Телебашня
   1. Белый медведь
   1. Газ
